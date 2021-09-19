@@ -1,22 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-
-
-
-<head>
- <meta charset="utf-8">
- <title>Your page title here :)</title>
- <meta name="description" content="">
- <meta name="author" content="">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <link rel="preconnect" href="https://fonts.gstatic.com/" />
- <link href="https://fonts.googleapis.com/css?family=Muli:400" rel="stylesheet" />
- <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
- <link rel="stylesheet" href="skeleton.css">
- <link rel="icon" type="image/png" href="images/favicon.png">
-</head>
-<body>
+</div>
     <main>
 <div class="divider"></div>
  <div class="skal1">
